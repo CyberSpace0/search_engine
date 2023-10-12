@@ -1,4 +1,4 @@
-search_engine challenge | ease
+search_engine challenge | easy
 
 in website visit robots.txt
 you will see this page 726f626f74732e7478745f69735f7468655f666c6167
